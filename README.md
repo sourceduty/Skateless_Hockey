@@ -1,7 +1,6 @@
 ![Skateless](https://github.com/sourceduty/Skateless_Hockey/assets/123030236/8c6c2669-db7e-4ad5-a0c7-9086cec4898a)
 
-## Game Concept 
-### Skateless Mode
+### Game Concept: Skateless Mode
 
 Concept Overview:
 
